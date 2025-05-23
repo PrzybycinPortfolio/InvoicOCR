@@ -12,7 +12,6 @@ Application for recognizing the type of financial documents.
 | `scikit-learn`    | Machine learning toolkit                            |
 | `transformers`    | Modern NLP models (e.g., BERT, GPT)                 |
 
-> ⚠️ Note: Originally listed `terrasect` is likely a typo. The correct library for OCR is `pytesseract`.
 
 ---
 
