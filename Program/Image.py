@@ -18,7 +18,9 @@ class Image:
         cv2.imshow("Orginal colorful input image", self.orginal_img)
         Image.do_not_close()
 
-    
+
+
+
 
 
 
